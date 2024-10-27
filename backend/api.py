@@ -46,4 +46,4 @@ async def ask_question(request: Request):
     # Simple mock logic (replace with your actual PDF-based Q&A logic)
     answers = [f"Answer based on {name}: {question}" for name in pdf_store.keys()]
 
-    return JSONResponse(status_code=200, content={"answers": answers})
+    return JSONResponse(status_code=200, content={"answers": answers})
