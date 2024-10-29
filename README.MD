@@ -27,7 +27,7 @@ This project is a React-based application built with Vite, designed to allow use
 
 1. **Clone the Repository**:
    ```bash
-   git clone 
+   git clone https://github.com/Karan071/GenAI-Project.git
    ```
 
 2. **Project setup**
