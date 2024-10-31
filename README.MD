@@ -1,4 +1,4 @@
-# Assignment App
+# PDF Insights App
 
 This project is a React-based application built with Vite, designed to allow users to upload PDF files and interact with the application through a chat interface. The app includes a backend API for file uploads and text responses.
 
