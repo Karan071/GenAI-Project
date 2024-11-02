@@ -7,9 +7,7 @@ This project is a React-based application built with Vite, designed to allow use
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
-- [API Documentation](#api-documentation)
-- [Application Architecture](#application-architecture)
-- [Scripts](#scripts)
+- [Demo Clips](#demo-clips)
 - [Technologies Used](#technologies-used)
 
 ## Features
@@ -43,6 +41,11 @@ This project is a React-based application built with Vite, designed to allow use
         
     ```
 
-```bash
+## Demo Clips
 Project Demo clips : https://drive.google.com/file/d/13zR4tavpOp3Bf6mrFYwcBzEDDxdyg0HQ/view?usp=sharing
-```
+
+## Technologies Used
+- React
+- Fast API
+- LLama Index
+- Approach Utilised : RAG
