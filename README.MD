@@ -9,6 +9,7 @@ This project is a React-based application built with Vite, designed to allow use
 - [Setup Instructions](#setup-instructions)
 - [Demo Clips](#demo-clips)
 - [Technologies Used](#technologies-used)
+- [WorkFlow](#workflow-management)
 
 ## Features
 
