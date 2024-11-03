@@ -49,3 +49,6 @@ Project Demo clips : https://drive.google.com/file/d/13zR4tavpOp3Bf6mrFYwcBzEDDx
 - Fast API
 - LLama Index
 - Approach Utilised : RAG
+
+## Workflow Management
+- Link : https://excalidraw.com/#json=5XDWz0Qen-5wDDc4uMSXm,PqZmJpNNtfZmygwsbXhrBw
