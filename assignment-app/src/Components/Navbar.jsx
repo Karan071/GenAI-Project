@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import imgIcon from "../assets/icon.png";
+import imgIcon from "../assets/chatbot.png";
 import { LuUploadCloud } from "react-icons/lu";
 import axios from 'axios';
 
